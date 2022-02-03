@@ -1,16 +1,53 @@
-### Hi there 👋
+<div>
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/augustoocnascimento/"><i>Augusto Nascimento</i></a></h1>
+  <p align="center">Tenho 25 anos e sou do interior de SP. Atualmente estudando Ciência de Dados e me apixonando cada vez mais por machine learning e sua complexidade.
+</div>
 
-<!--
-**ynggt/ynggt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- <h1 align="center"> 
+  Trybe
+</h1>
+
+<p align="center"><i>"A Trybe é uma escola do futuro para qualquer pessoa que deseja construir uma carreira de sucesso em tecnologia. Como estudante a pessoa ainda tem a opção de pagar os estudos apenas quando estiver formada e com um bom trabalho."</i></p> -->
+
+<div align="center">
+  <a href="https://github.com/ynggt">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ynggt&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+
+  </a>
+</div>
+
+<div align="center" valign="top"><br>
+    <img align="center" alt="React" height="30" width="60"
+src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  <img align="center" alt="React" height="30" width="60"
+src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+  <img align="center" alt="React" height="30" width="60"
+src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white">
+  <img align="center" alt="React" height="30" width="60"
+src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+  <img align="center" alt="Redux" height="30" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+  <img align="center" alt="Redux" height="30" width="60" 
+src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
+  <img align="center" alt="github" height="30" width="60" 
+src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whit">
+<!--   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> -->
+  
+
+<div align="center">
+ <br> <a href= "https://www.linkedin.com/in/augustoocnascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:augustoocnascimento@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+<div align="center">
+  <p>Créditos:<a href= "https://github.com/duribeiro"> Eduardo Ribeiro </a></p>
+</div>
+
+
