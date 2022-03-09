@@ -1,6 +1,7 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/augustoocnascimento/"><i>Augusto Nascimento</i></a></h1>
-  <p align="center">Tenho 25 anos e sou do interior de SP. Atualmente estudando Ciência de Dados e me apixonando cada vez mais por machine learning e sua complexidade.
+  <p align="center">Tenho 25 anos, sou formado em Física licenciatura pela Universidade Federal de São Carlos, cidade em que nasci e cresci. Jogador de Valorant nas horas vagas, skatista de vez em quando e apreciador de um bom café!  <img src:"https://www.flaticon.com/br/icone-gratis/xicara-de-cafe_633652"> 
+    Atualmente estou em transição de carreira da docência de Física para a área de Dados, especificamente Ciência de Dados. 
 </div>
 
 
