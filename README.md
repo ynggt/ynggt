@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/carlosfab/template_portfolio/blob/master/banner.png" >
+</p>
+
+
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/augustoocnascimento/"><i>Augusto Nascimento</i></a></h1>
   <p align="center">Tenho 25 anos, sou formado em Física licenciatura pela Universidade Federal de São Carlos, cidade em que nasci e cresci. Jogador de Valorant nas horas vagas, skatista de vez em quando e apreciador de um bom café!  <img src:"https://www.flaticon.com/br/icone-gratis/xicara-de-cafe_633652"> 
@@ -6,12 +11,7 @@
 
 
 
-<div align="center">
-  <a href="https://github.com/ynggt">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ynggt&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
 
-  </a>
-</div>
 
 <div align="center" valign="top"><br>
     <img align="center" alt="React" height="30" width="60"
@@ -27,7 +27,7 @@ src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&
 src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
   <img align="center" alt="github" height="30" width="60" 
 src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whit">
-<!--   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> -->
+
   
 
 <div align="center">
@@ -43,6 +43,6 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 
 <div align="center">
   <p>Créditos:<a href= "https://github.com/duribeiro"> Eduardo Ribeiro </a></p>
+  <p>Créditos:<a href= "https://github.com/carlosfab"> Carlos Melo </a></p>
 </div>
-
 
