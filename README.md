@@ -5,8 +5,7 @@
 
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/augustoocnascimento/"><i>Augusto Nascimento</i></a></h1>
-  <p align="center">Tenho 25 anos, sou formado em Física licenciatura pela Universidade Federal de São Carlos, cidade em que nasci e cresci. Jogador de Valorant nas horas vagas, skatista de vez em quando e apreciador de um bom café!  <img src:"https://www.flaticon.com/br/icone-gratis/xicara-de-cafe_633652"> 
-    Atualmente estou em transição de carreira, saindo da docência em Física para a área de Dados, especificamente Ciência de Dados. 
+  <p align="center">Tenho 26 anos, sou formado em Física licenciatura pela Universidade Federal de São Carlos, cidade em que nasci e cresci. Jogador de Valorant nas horas vagas, skatista de vez em quando e apreciador de um bom café!  <img src:"https://www.flaticon.com/br/icone-gratis/xicara-de-cafe_633652"> 
 </div>
 
 
